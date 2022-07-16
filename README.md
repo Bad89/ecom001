@@ -1,3 +1,7 @@
+https://www.youtube.com/watch?v=kmU7uX3ZHJc
+17:23
+
+
 # Getting Started with Create React App
 
 This project was (https://github.com/Bad89).
@@ -28,3 +32,4 @@ ecom001 = appusername
 https://tailwindcss.com/docs/installation
 npm install -D tailwindcss
 npx tailwindcss init
+
